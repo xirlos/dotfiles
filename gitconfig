@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = carlosriosfernandez@gmail.com
+	name = Carlos RIios
